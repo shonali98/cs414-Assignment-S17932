@@ -1,6 +1,6 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Test Automation Suite" verbose="1">
-    <test name="HR Management department Tests">
+    <test name="HR Management department test 1">
         <packages>
             <package name="com.example.testautomation.tests"/>
         </packages>
